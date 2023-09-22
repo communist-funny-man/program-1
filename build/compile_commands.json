@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Usuario/Desktop/Proyectos Pro1/practicas-pro1/program-1/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe   -g -std=gnu99 -o CMakeFiles\\testc.dir\\main.c.obj -c \"C:\\Users\\Usuario\\Desktop\\Proyectos Pro1\\practicas-pro1\\program-1\\main.c\"",
+  "file": "C:/Users/Usuario/Desktop/Proyectos Pro1/practicas-pro1/program-1/main.c",
+  "output": "CMakeFiles/testc.dir/main.c.obj"
+}
+]
