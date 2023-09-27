@@ -19,7 +19,7 @@ int main(){
     
     float costem1 = (credit1*15.45);
     float costem2 = (credit2*(15.45*1.25));
-    float costem3 = (credit2*(15.45*1.5));
+    float costem3 = (credit2*(15.45*1.5)); //MUST INITIALIZE VARIABLES OOOOOOOOOOOOOOOO
     
     printf("%lf\n%lf\n%lf",costem1,costem2,costem3);
 }
